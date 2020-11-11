@@ -9,6 +9,6 @@ public class Illusion extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_illusion);
+        setContentView(R.layout.activity_brazil);
     }
 }

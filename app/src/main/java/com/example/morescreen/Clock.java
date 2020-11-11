@@ -9,6 +9,6 @@ public class Clock extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_clock);
+        setContentView(R.layout.activity_columbia);
     }
 }

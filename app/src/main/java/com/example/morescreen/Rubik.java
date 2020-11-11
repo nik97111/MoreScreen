@@ -9,6 +9,6 @@ public class Rubik extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_rubik);
+        setContentView(R.layout.activity_argentina);
     }
 }
